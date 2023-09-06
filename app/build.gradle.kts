@@ -76,6 +76,6 @@ dependencies {
     implementation("androidx.media3:media3-ui:$media3_version")
 
     // Dagger-Hilt
-    implementation("com.google.dagger:hilt-android:2.44")
-    kapt("com.google.dagger:hilt-android-compiler:2.44")
+    implementation("com.google.dagger:hilt-android:2.45")
+    kapt("com.google.dagger:hilt-android-compiler:2.45")
 }
