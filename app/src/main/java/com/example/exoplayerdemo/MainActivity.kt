@@ -35,7 +35,6 @@ import androidx.compose.ui.viewinterop.AndroidView
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
-import androidx.lifecycle.LifecycleOwner
 import androidx.media3.ui.PlayerView
 import com.example.exoplayerdemo.ui.theme.ExoPlayerDemoTheme
 import dagger.hilt.android.AndroidEntryPoint
